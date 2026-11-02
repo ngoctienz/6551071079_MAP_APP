@@ -439,8 +439,8 @@
             Margin = new Padding(3, 4, 3, 4);
             Name = "FormSoDoPhong";
             StartPosition = FormStartPosition.CenterScreen;
+            Text = "6";
             Load += FormSoDoPhong_Load;
-            Text = "Sơ đồ phòng";
             panel1.ResumeLayout(false);
             panel4.ResumeLayout(false);
             panel4.PerformLayout();
