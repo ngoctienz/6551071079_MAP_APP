@@ -36,7 +36,7 @@
             pictureBox1.Location = new Point(0, 0);
             pictureBox1.Margin = new Padding(3, 4, 3, 4);
             pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(756, 561);
+            pictureBox1.Size = new Size(756, 516);
             pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBox1.TabIndex = 1;
             pictureBox1.TabStop = false;
@@ -48,7 +48,7 @@
             Controls.Add(pictureBox1);
             Margin = new Padding(3, 4, 3, 4);
             Name = "FormTrangChu";
-            Size = new Size(756, 561);
+            Size = new Size(756, 516);
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
         }
